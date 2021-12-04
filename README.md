@@ -1,4 +1,4 @@
-# Entrenamiento p/ AdventOfCode
+# Entrenamiento AdventOfCode
 
 Hola Buenas a todos en este repo voy a intentar dejar las resoluciones de los ejercicios de la competencia AdventOfCode, traducidos a español, tanto los enunciados como tambien algo de la logica utilizada para resolverlos, los hago cuando me queda algo de tiempo, entre facultad y trabajo asi que se ira completando de a poco :).
 
